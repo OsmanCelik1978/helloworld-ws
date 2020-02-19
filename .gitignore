@@ -4,7 +4,6 @@
 .npm/*
 .tmp/*
 .templates/*
-output/*
 plugin/*
 !output/Android/README.md
 !output/iOS/README.md
